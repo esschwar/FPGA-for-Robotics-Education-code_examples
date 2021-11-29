@@ -1,10 +1,10 @@
 # FPGA-for-Robotics-Education-code_examples
 
-#Eric Schwarz Iglesias
+# Eric Schwarz Iglesias
 
-#ECE 484/485 Senior Design
+# ECE 484/485 Senior Design
 
-#Team 4: FPGA for Robotics Education
+# Team 4: FPGA for Robotics Education
 
 This directory is the software packet that contains all the software examples to interface the TI-RSLK-MAX with the WebFPGA. In this directory there are folders for each individual example as well as a file containing the official pinmap and instructions on how to use it. In every example folder there are two verilog files and a bitstream. 
 
